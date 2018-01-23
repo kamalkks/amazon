@@ -9,5 +9,4 @@ exports.handler = (event, context, callback) => {
     callback(null, total); 
 };
 
-//link url
-// https://27yxp6kwzl.execute-api.us-west-2.amazonaws.com/test/gur/?one=1&two=3
+
